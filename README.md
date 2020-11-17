@@ -59,11 +59,21 @@ Note: some sections are incomplete.
 - <a href="https://www.notion.so/tymz/Fullstack-Engineering-394ebcac962a46dc81376fb8581a603b">Fullstack Engineering [IN PROGRESS]</a>
     - Includes HTML, CSS, Bootstrap 4, JavaScript, jQuery, ReactJS, Redux, Node.js, Express and MongoDB
 
-- <a href="">Ruby Notes [IN PROGRESS, UNLINKED]</a>
+### Planned:
 
-- <a href="">PostgreSQL Notes [IN PROGRESS, UNLINKED]</a>
+- <a href="">Ruby Notes [IN PROGRESS]</a>
 
-- <a href="">SCSS Notes [IN PROGRESS, UNLINKED]</a>
+- <a href="">PostgreSQL Notes [IN PROGRESS]</a>
 
-- <a href="">Docker Notes [IN PROGRESS, UNLINKED]</a>
+- <a href="">SCSS Notes [IN PROGRESS]</a>
+
+- <a href="">Docker Notes [IN PROGRESS]</a>
+
+- <a href="">COMP6080 — Web Frontend Programming</a>
+
+- <a href="">COMP3891 — Extended Operating Systems</a>
+
+- <a href="">SENG2021 — Requirements and Design Workshop</a>
+
+
 
