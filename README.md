@@ -24,11 +24,11 @@ A compilation of notes for UNSW computer science, maths and engineering courses,
 
 - <a href="https://github.com/Tymotex/Neural-Networks">COMP9444 — Neural Networks and Deep Learning [IN PROGRESS]</a>
 
-- <a href="https://docs.google.com/document/d/1LdtCi2MAIJy8ItS3NaAw9MrGN-X0fFn7ksCnMiXYh4c/edit?usp=sharing">MATH1141 — 1A Calculus</a>
+- <a href="https://docs.google.com/document/d/1LdtCi2MAIJy8ItS3NaAw9MrGN-X0fFn7ksCnMiXYh4c/edit?usp=sharing">MATH1141 — Higher Maths 1A Calculus</a>
 
-- <a href="https://docs.google.com/document/d/15KoR6syt5e-zaSeH7EBPJhAZ6yMdNtmw0U6g_B1Mtl4/edit?usp=sharing">MATH1141 — 1A Algebra</a>
+- <a href="https://docs.google.com/document/d/15KoR6syt5e-zaSeH7EBPJhAZ6yMdNtmw0U6g_B1Mtl4/edit?usp=sharing">MATH1141 — Higher Maths 1A Algebra</a>
 
-- <a href="https://docs.google.com/document/d/1W7v--PD80hQpHape7nOrFM3ckNl405Dt3aanLbf2_GU/edit?usp=sharing">MATH1241 — 1B</a>
+- <a href="https://docs.google.com/document/d/1W7v--PD80hQpHape7nOrFM3ckNl405Dt3aanLbf2_GU/edit?usp=sharing">MATH1241 — Higher Maths 1B</a>
 
 - <a href="https://docs.google.com/document/d/10OiXvUbSTHCY5np_lF6_NmiMb1kbwqRlFuxARVdrwK8/edit?usp=sharing">MATH1081 — Discrete Maths</a>
 
