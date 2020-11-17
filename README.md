@@ -67,5 +67,3 @@ Note: some sections are incomplete.
 
 - <a href="">Docker Notes [IN PROGRESS, UNLINKED]</a>
 
-
-### In Progress:
