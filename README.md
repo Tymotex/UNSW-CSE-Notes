@@ -52,7 +52,7 @@ Note: some sections are incomplete.
 
 - <a href="https://www.notion.so/tymz/Perl-5-Reference-1602c0345a7440b2970a8d9f582d4514">Perl 5 Notes</a>
 
-- <a href="https://www.notion.so/tymz/C-Reference-959b4b9a83dd46a6a9605c4205d2f466">C# Notes</a>
+- <a href="https://www.notion.so/tymz/C-Reference-959b4b9a83dd46a6a9605c4205d2f466">C# Notes [IN PROGRESS]</a>
 
 - <a href="https://www.notion.so/tymz/C-bb85007d7acb4b3aa7e690fce833408e">C Notes [IN PROGRESS]</a>
 
