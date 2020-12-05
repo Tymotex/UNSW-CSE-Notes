@@ -1,5 +1,5 @@
 # UNSW CSE Notes
-A compilation of notes for UNSW computer science, maths and engineering courses, as well as a collection of reference notes written for various programming languages, frameworks and software tools.
+A compilation of personal notes written for UNSW computer science, maths and engineering courses, as well as a collection of reference notes written for various programming languages, frameworks and software tools.
 
 ### Courses
 
@@ -18,11 +18,11 @@ A compilation of notes for UNSW computer science, maths and engineering courses,
 
 - <a href="https://www.notion.so/tymz/COMP3311-Database-System-2e574e205ef54dee8a525e13fa0ad48c">COMP3311 — Database Systems</a>
 
-- <a href="https://www.notion.so/tymz/COMP3331-Computer-Networks-e151e541990941ec9d493d50d43eab75">COMP3331 — Computer Networks [IN PROGRESS]</a>
+- <a href="https://www.notion.so/tymz/COMP3331-Computer-Networks-e151e541990941ec9d493d50d43eab75">COMP3331 — Computer Networks</a>
 
 - <a href="https://docs.google.com/document/d/11XoevcA9kJeEW5sUtsIWotC34pyllP7mIRXsw3aqr3M/edit?usp=sharing">COMP3821 — Extended Algorithms and Programming Techniques</a>
 
-- <a href="https://github.com/Tymotex/Neural-Networks">COMP9444 — Neural Networks and Deep Learning [IN PROGRESS]</a>
+- <a href="https://github.com/Tymotex/Neural-Networks">COMP9444 — Neural Networks and Deep Learning</a>
 
 - <a href="https://docs.google.com/document/d/1LdtCi2MAIJy8ItS3NaAw9MrGN-X0fFn7ksCnMiXYh4c/edit?usp=sharing">MATH1141 — Higher Maths 1A Calculus</a>
 
