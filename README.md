@@ -44,7 +44,7 @@ Note: some sections are incomplete.
 
 - <a href="https://www.notion.so/tymz/C-bb85007d7acb4b3aa7e690fce833408e">C Notes</a>
 
-- <a href="https://www.notion.so/tymz/Fullstack-Engineering-394ebcac962a46dc81376fb8581a603b">Fullstack Engineering [IN PROGRESS]</a>
+- <a href="https://www.notion.so/tymz/Fullstack-Engineering-394ebcac962a46dc81376fb8581a603b">Fullstack Engineering Notes [IN PROGRESS]</a>
     - HTML
     - CSS
     - Bootstrap 4
@@ -56,7 +56,7 @@ Note: some sections are incomplete.
 
 ### Planned:
 
-- <a href="">Ruby Note</a>
+- <a href="">Ruby Notes</a>
 
 - <a href="">PostgreSQL Notes</a>
 
