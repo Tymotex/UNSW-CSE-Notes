@@ -24,8 +24,6 @@ A compilation of personal notes written for UNSW CSE courses, as well as a colle
 
 - <a href="https://github.com/Tymotex/Neural-Networks">COMP9444 — Neural Networks and Deep Learning</a>
 
-- <a href="https://docs.google.com/document/d/1kfDYovtexJm7El1bjilbnDCDj0MJ2gCsYk8Rh4gmMp0/edit?usp=sharing">ELEC1111 — Electrical and Telecommunications Engineering</a>
-
 ### Programming Languages and Technologies
 
 Note: some sections are incomplete.
